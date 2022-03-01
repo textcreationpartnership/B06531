@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulary poem on the right honourable Heneage Lord Finch, Baron of Daventry, Earl of Notttingham [sic] and Lord High Chancellor of England.</title>
+            <author>W. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06531</idno>
+            <idno type="STC">Wing W142</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[48]</idno>
+            <idno type="EEBO-CITATION">99885183</idno>
+            <idno type="PROQUEST">ocm99885183</idno>
+            <idno type="VID">182533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182533)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulary poem on the right honourable Heneage Lord Finch, Baron of Daventry, Earl of Notttingham [sic] and Lord High Chancellor of England.</title>
+                  <author>W. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.W.</note>
+                  <note>Verse: "My Lord, Ariststotle the lerarn'd did say ..."</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nottingham, Heneage Finch, --  Earl of, 1621-1682 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182533:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <hi>A Congratulary Poem</hi> ON THE RIGHT HONOURABLE <hi>Heneage</hi> Lord <hi>Finch,</hi> Baron of <hi>Daventry,</hi> Earl of <hi>Nottingham</hi> AND Lord High Chancellor OF ENGLAND.</head>
+            <l>MY Lord, <hi>Ariſtſtotle</hi> the Lerarn'd did ſay</l>
+            <l>That Wit, and Vertue, always made the way</l>
+            <l>for their Allies, to mount bright Honours Chair,</l>
+            <l>By rendring of them Excellent and Rare.</l>
+            <l>A Man may riſe in Greatneſs from his Blood,</l>
+            <l>But unleſs he, be Vertuous and Good,</l>
+            <l>He wanteth Weight, and equal Ballance High,</l>
+            <l>To make him truely Great, and from the Sky.</l>
+            <l>Blood without Vertue, 'tis but only Nature,</l>
+            <l>Without embelliſhing of the Creature,</l>
+            <l>But when together, are in hand and hand,</l>
+            <l>That Soul enjoys the Heavens and the Land.</l>
+            <l>Blood without Vertue's, but a dazeling Light,</l>
+            <l>And blinds the Opticks, more then clears the Sight.</l>
+            <l>But when Companions are, in the ſame way,</l>
+            <l>Honour comes up and makes her Holliday.</l>
+            <l>Blood without Vertue, is too often Vain,</l>
+            <l>Its Colour fading, becauſe not dy'd in Grain.</l>
+            <l>But when with her, She Hawks up Honour high,</l>
+            <l>Says the moſt Learned in Divinity.</l>
+            <l>Vertue without Blood, does ſtill make Honour</l>
+            <l>Eſſentially ſo, from Heavens great Donour.</l>
+            <l>Since that's the <hi>Primum Mobile</hi> of all,</l>
+            <l>Of things above, and below Terreſtial.</l>
+            <l>By her, Men are great, and that of Courſe,</l>
+            <l>For true Greatneſs flows from Heavens Source.</l>
+            <l>For what's neareſt the thing, Logicians ſay.</l>
+            <l>Enjoys that moſt, which we call Honours day.</l>
+            <l>The Arts cry out, they only Honour have,</l>
+            <l>That underſtand how to be good and brave,</l>
+            <l>Learned, Juſt, Pious, and from Reaſon high,</l>
+            <l>As Men not born from Earth, but from the Sky.</l>
+            <l>Wiſdome relates, that ſhe Commiſſion hath,</l>
+            <l>Honours to give, as ſhe beſt pleaſeth</l>
+            <l>To her Allies, thoſe things ſhe doth beſtow,</l>
+            <l>That in our ſelves may live, and not Mankind owe</l>
+            <l>Any thing, but what out ſelves think Juſt,</l>
+            <l>The ſureſt way diſcharging any Truſt,</l>
+            <l>Wiſdom's a Portion to the Sons of Men,</l>
+            <l>The ſofter Sex to the fine Women.</l>
+            <l>Vertue's Honour ſtill, and from on high,</l>
+            <l>Honour without her, is but a Myſtery;</l>
+            <l>And not ſo, from Reaſon, Sence nor Story,</l>
+            <l>Therefore I have done with Honours empty Glory.</l>
+            <l>But your great Soul ſtill moves on Honour true,</l>
+            <l>Acted by th' powers above, above Red and Blew;</l>
+            <l>It loves to live with you, and with you will dye,</l>
+            <l>And beyond the Grave ſhall keep you Company.</l>
+            <l>Honour, the bright Star, from the Arts Spheers,</l>
+            <l>Honour the gay Plannet of our years,</l>
+            <l>The Youth moſt beautiful, Charming and Fair,</l>
+            <l>Courting the Maid Vertue, as in the Air,</l>
+            <l>The Sun himſelf courts all things here below,</l>
+            <l>And by its motion runs dayly to and fro,</l>
+            <l>Leading the Life of Love, as we do ſee,</l>
+            <l>Makes Men and Beaſts take their felicitie.</l>
+            <l>Nature, Blood, Wit, Art, Wiſdome moſt high;</l>
+            <l>Makes you ſo Rich, and ſo to ſignify.</l>
+            <l>In that you are not ſingly, but doubly Great,</l>
+            <l>By Fortunes Charms, and not by thoſe of Fate,</l>
+            <l>You are ſo excellent, and of ſuch parts,</l>
+            <l>Whether you will or no, you take all Hearts;</l>
+            <l>Bringing them to their great and chief Delight,</l>
+            <l>Their pains diſcharge, and ſettle them on the Right.</l>
+            <l>Your Picture in your Character may ſee,</l>
+            <l>As the Sun when ſmiling on a Willow Tree,</l>
+            <l>There your perfections, are rendred bright and rare,</l>
+            <l>As Angels Gay, do dance beyond the Air.</l>
+            <l>There we may ſee enough, of one fine Man,</l>
+            <l>That we we may imitate, and do the beſt we can;</l>
+            <l>For that which we can't Coppy, we muſt admire,</l>
+            <l>As <hi>Perſians</hi> do the Suns bright Golden Fire,</l>
+            <l>When this great Oak muſt be cut down to die</l>
+            <l>By Death the Woodman and in the Grave to lie;</l>
+            <l>It ſhall be ſet in the Orchard above,</l>
+            <l>Near the purling River, of Heaven's great Love;</l>
+            <l>Where it ſhall thrive, and be water'd again,</l>
+            <l>Prun'd and be Trimm'd, and there rejoyce amain;</l>
+            <l>And ſo receive from time to time ſuch pleaſure,</l>
+            <l>Beyond Thought, Words, Fancie, and all Meaſure.</l>
+            <signed>W.W.</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
